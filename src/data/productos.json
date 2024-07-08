@@ -5,6 +5,7 @@
             "nombre": "Mesa escritorio Amba de Kesta",
             "descripcion": "Mesa de escritorio modelo Amba de Kesta. Disponible en varios colores y medidas. Mesa robusta y duradera. Entrega rápida.",
             "precio": "$ 49.000",
+            "sku": "ME01AKCV",
             "imagen":  "https://laoficinaonline.es/9737-home_default/mesa-escritorio-amba-de-kesta.jpg"
         },
         {
@@ -12,6 +13,7 @@
             "nombre": "Silla de oficina ergonómica Aura - Laoficinaonline",
             "descripcion":  "Silla de oficina Aura con gran asiento comodo y respaldo de malla. Fabricación nacional. Personalizable en colores.",
             "precio": "$ 20.000",
+            "sku": "SI01AUCV",
             "imagen": "https://laoficinaonline.es/10798-home_default/silla-ergonomica-aura.jpg"
         },
         {
@@ -19,6 +21,7 @@
             "nombre": "Paragüero oficina Drop Out de Systemtronic",
             "descripcion":  "Paragüero Drop Out. Destaca por su diseño moderno y funcional. Se compone de 2 cubetas: 1 grande y 1 pequeña. Disponible en: blanco texturado, negro texturado y gris forja texturado. Medidas: 42 x 18 x 50,7 cm.",
             "precio": "$ 9.500",
+            "sku": "PA01DOSCB",
             "imagen":  "https://laoficinaonline.es/4768-home_default/paraguero-drop-out-systemtronic.jpg"
         },
         {
@@ -26,6 +29,7 @@
             "nombre": "Cajonera oficina 3 cajones con ruedas de JGorbe",
             "descripcion":  "Cajonera de 3 cajones de madera con ruedas. La cajonera mide 58 x 60 x 42,5.",
             "precio": "$ 28.500",
+            "sku": "CO01JGCR",
             "imagen": "https://laoficinaonline.es/4492-home_default/cajonera-3-cajones-con-ruedas.jpg"
         }
     ]
